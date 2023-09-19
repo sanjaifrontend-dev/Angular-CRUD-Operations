@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstname": "iron man",
+      "lastname": "G",
+      "email": "ironman@gmail.com",
+      "dob": "2012-12-11T18:30:00.000Z",
+      "gender": "female",
+      "education": "Pro",
+      "company": "Marvels",
+      "experience": 5,
+      "pacakage": 150,
+      "id": 1
+    },
+    {
+      "firstname": "Keaton",
+      "lastname": "Dudley",
+      "email": "tigoh@mailinator.com",
+      "dob": "1991-05-27T18:30:00.000Z",
+      "gender": "female",
+      "education": "Beginner",
+      "company": "Becker and Oneill LLC",
+      "experience": 84,
+      "pacakage": 2,
+      "id": 2
+    },
+    {
+      "firstname": "Norman",
+      "lastname": "Thomas",
+      "email": "kicygat@mailinator.com",
+      "dob": "1974-08-05T18:30:00.000Z",
+      "gender": "male",
+      "education": "Beginner",
+      "company": "Mullins and Melendez Inc",
+      "experience": 1,
+      "pacakage": 9,
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<p *ngIf="customer_list.length==0">empty</p>
+
+<ul>
+    <li *ngFor="let cust_list of customer_list ">{{cust_list.name}}</li>
+</ul>
+

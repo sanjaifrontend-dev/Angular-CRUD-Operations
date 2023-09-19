@@ -1,0 +1,21 @@
+.create-customer{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.create-customer button{
+    border: none;
+    background: #5886f9;
+    border-radius: 5px;
+    padding: 8px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.create-customer input{
+    padding: 8px;
+    border: none;
+    background: #dddcdc;
+    border-radius: 5px;
+}
