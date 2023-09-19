@@ -13,7 +13,7 @@ Before you begin, ensure you have the following tools installed:
 ## Getting Started
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/your-username/angular-crud-json-server.git
+   git clone https://github.com/sanjaifrontend-dev/Angular-CRUD-Operations.git
 
 2. Change to the project directory:
 cd angular-crud-json-server
